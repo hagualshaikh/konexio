@@ -199,7 +199,7 @@ header img {
   box-shadow: 3px 3px 6px #AAA;
 }
 
-@media (min-width: 768px) {
+@media screen and (min-width: 200px) and (max-width: 640px) {
   header {
       width: 768px;
       margin-left: auto;
